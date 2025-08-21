@@ -44,6 +44,9 @@ Excel Charts - Dashboard creation	Stacked charts, trend analysis, KPI dashboards
 
 - Bottom Sellers (poor reliability): IDs 10, 19, 6
 
+![](https://github.com/semilogoD/Afrimarket-Data-Verse-Challenge/blob/main/Top%20Performing%20sellers.PNG)
+![](https://github.com/semilogoD/Afrimarket-Data-Verse-Challenge/blob/main/Underperforming%20sellers.PNG)
+
 2. Product Category Insights
    
 Highest Complaint Categories: 
@@ -54,6 +57,8 @@ Highest Complaint Categories:
 
 - 🏥 Health
 
+![](https://github.com/semilogoD/Afrimarket-Data-Verse-Challenge/blob/main/category%20performance%20analysis.PNG)
+
 High Return Rate Categories:
 
 - 🏠 Home & Living 
@@ -62,7 +67,9 @@ High Return Rate Categories:
 
 3. Geographic Performance
 
-- Highest Delays: Southwest Region & Volta Region 
+- Highest Delays: Southwest Region & Volta Region
+
+![](https://github.com/semilogoD/Afrimarket-Data-Verse-Challenge/blob/main/regional%20delivery%20perfromance.PNG)
 
 4. Fraud Detection Results
    
@@ -71,6 +78,11 @@ High Return Rate Categories:
 - Seller IDs with 5-star ratings + high returns: 50, 20, 21
 
 - Indicator: Potential fake positive reviews masking poor service
+
+![](https://github.com/semilogoD/Afrimarket-Data-Verse-Challenge/blob/main/review%20fraud%205%20star%20rating%20with%20high%20returns.PNG)
+
+## 🗠 Dashboard
+![](https://github.com/semilogoD/Afrimarket-Data-Verse-Challenge/blob/main/Jumia%20Jitters%20Dashboard.PNG)
 
 ## 🤖 Predictive Model Development
 
